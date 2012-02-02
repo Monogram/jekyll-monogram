@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Contact"
-group "navigation"
+group: "navigation"
 ---
 {% include JB/setup %}
