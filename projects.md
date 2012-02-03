@@ -5,7 +5,7 @@ group: "navigation"
 ---
 {% include JB/setup %}
 
-### Quick Exit
+### [Quick Exit](https://market.android.com/details?id=com.MTRApp)
 Like most people in Hong Kong, we all take the MTR to and from work.
 When you take the MTR every day to work, you start noticing patterns and
 soon enough you memorize exactly where to get on so that when you arrive
